@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231816180561",
+    "project_id": "minci-4f37d",
+    "storage_bucket": "minci-4f37d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231816180561:android:d690f51b122d3ffae49970",
+        "android_client_info": {
+          "package_name": "com.example.minci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231816180561-9vmqp66jel4ocappcl0fe3qs4r3fjmen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDo9l2gsyLtdCPEBIbeU2zRq86fP1QCTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231816180561-9vmqp66jel4ocappcl0fe3qs4r3fjmen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
